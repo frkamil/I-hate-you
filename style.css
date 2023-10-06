@@ -1,0 +1,57 @@
+/* html {
+  /* background: url("img/img/floral-ornamental-abstract-background_52683-30016.avif")
+    no-repeat center fixed;
+  background-size: cover; } */
+
+body {
+  background-color: rgba(74, 65, 42);
+  /* background-color: rgba(82, 61, 92, 0.9);
+  background-image: linear-gradient(
+    rgba(34, 15, 46, 0.9),
+    rgba(101, 61, 120, 0.9)
+  ); */
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(0, 0, 0);
+}
+
+h1 {
+  font-family: serif;
+  font-size: 400%;
+  color: rgba(0, 0, 0, 0.629);
+}
+
+button:hover {
+  background-color: rgba(0, 0, 0, 0.329);
+  color: black;
+}
+
+input {
+  width: 50px;
+  background-color: rgba(0, 0, 0, 0.329);
+  color: rgba(74, 65, 42);
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 400;
+}
+
+.tiny {
+  font-size: small;
+}
+
+.center {
+  text-align: center;
+}
+
+button {
+  background-color: rgba(0, 0, 0, 0.344);
+  color: rgb(74, 65, 42);
+  cursor: pointer;
+  padding: 5px 8px;
+  border-radius: 25px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  text-align: center;
+}
